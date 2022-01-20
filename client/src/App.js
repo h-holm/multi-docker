@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Changed greeting text.
+            Changed greeting text
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
